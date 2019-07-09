@@ -1,0 +1,27 @@
+Generici dozvoljavaju prenos specifikacije tipa podatka programskog elementa u klasi ili metodu.
+
+Uprosteno generici nam dozvoljavaju da napisemo klasu ili metodu koja moze da radi sa bilo kojim tipom podatka
+
+Prvo napisemo specifikaciju za klasu ili metod za T zamenom za parametre za tipove podataka.
+Kada kompajler sretne konstruktor za klasu ili funkciju poziva za metodu, generise se kod za hendlovanje 
+tog tipa podatka.
+
+U Generic Collection-u imamo 4 vrste:
+
+1. List: podacima u listu pristupamo preko indeksa
+
+2. Dictionary: pristupamo podacima preko definisanih kljuceva
+
+3. Stack: pristupamo podacima preko LIFO sekvence (last in first out)
+
+4. Queue: pristupamo podacima preko FIFO sekvence (first in first out)
+
+Genericne klase i metode kombinuju reusabilnost, type safety i efikasnost koje ne-genericne klase i metode ne mogu da odrade
+Generici se najcesce koriste sa kolekcijama i metodama
+
+Generici su korisni zbog sledecih stavki:
+-Pomazu da se maksimalno iskoristi kod, bez ponavljanja
+-Mozemo kreirati genericne klase kolekcije
+-Mozemo kreirati svoje genericne interfejse, klase, metode, dogadjaje i delegate
+-Mozemo kreirati genericne klase koje omogucuju pristup metodama sa specificnim tipom podatka
+-Mozemo dobiti informacije of tipu koriscenom u genericnom tipo podatka na run tajmu koristeci refleksije

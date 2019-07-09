@@ -1,0 +1,11 @@
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\bin\Debug\netcoreapp2.2\GenericsTutorial.deps.json
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\bin\Debug\netcoreapp2.2\GenericsTutorial.runtimeconfig.json
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\bin\Debug\netcoreapp2.2\GenericsTutorial.runtimeconfig.dev.json
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\bin\Debug\netcoreapp2.2\GenericsTutorial.dll
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\bin\Debug\netcoreapp2.2\GenericsTutorial.pdb
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\obj\Debug\netcoreapp2.2\GenericsTutorial.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\obj\Debug\netcoreapp2.2\GenericsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\obj\Debug\netcoreapp2.2\GenericsTutorial.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\obj\Debug\netcoreapp2.2\GenericsTutorial.AssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\obj\Debug\netcoreapp2.2\GenericsTutorial.dll
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\GenericsTutorial\obj\Debug\netcoreapp2.2\GenericsTutorial.pdb

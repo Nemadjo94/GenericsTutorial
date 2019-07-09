@@ -1,0 +1,10 @@
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\bin\Debug\netcoreapp2.2\TestDelegate.deps.json
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\bin\Debug\netcoreapp2.2\TestDelegate.runtimeconfig.json
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\bin\Debug\netcoreapp2.2\TestDelegate.runtimeconfig.dev.json
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\bin\Debug\netcoreapp2.2\TestDelegate.dll
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\bin\Debug\netcoreapp2.2\TestDelegate.pdb
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\obj\Debug\netcoreapp2.2\TestDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\obj\Debug\netcoreapp2.2\TestDelegate.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\obj\Debug\netcoreapp2.2\TestDelegate.AssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\obj\Debug\netcoreapp2.2\TestDelegate.dll
+C:\Users\Nemanja Djordjevic\source\repos\GenericsTutorial\TestDelegate\obj\Debug\netcoreapp2.2\TestDelegate.pdb
